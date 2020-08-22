@@ -1,1 +1,2 @@
 wstring
+32
